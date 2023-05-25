@@ -70,6 +70,7 @@
     grid-template-columns: 1fr 1fr 1fr 1fr;
   }
 }
+
 .video-time {
   font-family: Roboto, Arial;
   font-size: 12px;
@@ -84,4 +85,8 @@
   padding-top: 4px;
   padding-bottom: 4px;
   border-radius: 2px;
+}
+
+.video-preview {
+  cursor: pointer;
 }
