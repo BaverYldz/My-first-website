@@ -88,7 +88,6 @@
 .upload-icon-container .tooltip,
 .notifications-icon-container .tooltip,
 .apps-icon-container .tooltip {
-  font-family: Roboto, Arial;
   position: absolute;
   background-color: gray;
   color: white;
@@ -145,19 +144,15 @@
 }
 
 .search-bar::placeholder {
-  font-family: Roboto, Arial;
   font-size: 16px;
-
 }
 
 .search-icon {
   height: 25px;
-
 }
 
 .upload-icon {
   height: 24px;
-
 }
 
 .youtube-apps-icon {
@@ -178,7 +173,6 @@
   right: -4px;
   background-color: rgb(199, 0, 0);
   color: white;
-  font-family: Robto, Arial;
   font-size: 11px;
   padding-left: 5px;
   padding-right: 5px;
