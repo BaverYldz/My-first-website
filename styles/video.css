@@ -90,3 +90,8 @@
 .video-preview {
   cursor: pointer;
 }
+
+.video-link {
+  text-decoration: none;
+  color: black;
+}
