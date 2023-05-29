@@ -89,7 +89,7 @@
 .notifications-icon-container .tooltip,
 .apps-icon-container .tooltip {
   position: absolute;
-  background-color: gray;
+  background-color: rgb(131, 131, 131);
   color: white;
   padding-top: 4px;
   padding-bottom: 4px;
